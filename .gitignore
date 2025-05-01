@@ -133,4 +133,4 @@ Desktop.ini
 
 # Ignore bundled libraries or external dependencies
 # Specifically ignore the Unity package cache to avoid committing these files to the repository
-**/Library/PackageCache/*
+Tanks/Library/PackageCache/*
