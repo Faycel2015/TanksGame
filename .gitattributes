@@ -1,0 +1,5 @@
+Tanks/Assets/**/*.prefab filter=lfs diff=lfs merge=lfs -text
+Tanks/Assets/**/*.unity filter=lfs diff=lfs merge=lfs -text
+Tanks/Assets/**/*.png filter=lfs diff=lfs merge=lfs -text
+Tanks/Assets/**/*.fbx filter=lfs diff=lfs merge=lfs -text
+Tanks/Assets/**/*.wav filter=lfs diff=lfs merge=lfs -text
